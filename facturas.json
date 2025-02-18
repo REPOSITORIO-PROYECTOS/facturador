@@ -1,0 +1,33 @@
+[
+  {
+    "cuit": "23423423",
+    "puntoVenta": "2",
+    "tipoComprobante": "a",
+    "clienteCuit": "23424",
+    "detalle": [
+      {
+        "descripcion": "asdsasa",
+        "cantidad": 1,
+        "precio": 0
+      }
+    ]
+  },
+  {
+    "cuit": "23423423",
+    "puntoVenta": "2",
+    "tipoComprobante": "a",
+    "clienteCuit": "23424",
+    "detalle": [
+      {
+        "descripcion": "asdsasa",
+        "cantidad": 1,
+        "precio": 0
+      },
+      {
+        "descripcion": "werwrwe",
+        "cantidad": 1,
+        "precio": 0
+      }
+    ]
+  }
+]
