@@ -5,7 +5,6 @@ import { useState } from "react";
 import { Input } from "@/components/ui/Input";
 import { Button } from "@/components/ui/Button";
 import { Card, CardContent } from "@/components/ui/Card";
-import { GuardarFactura } from "../utils/GuardarFractura";
 
 export default function Formulario() {
   const [form, setForm] = useState({

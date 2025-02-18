@@ -1,5 +1,23 @@
 [
   {
+    "cuit": "20004932022",
+    "puntoVenta": "2",
+    "tipoComprobante": "A",
+    "clienteCuit": "20938122031",
+    "detalle": [
+      {
+        "descripcion": "Harina",
+        "cantidad": "20",
+        "precio": "1500"
+      },
+      {
+        "descripcion": "Azucar",
+        "cantidad": "35",
+        "precio": "800"
+      }
+    ]
+  },
+  {
     "cuit": "23423423",
     "puntoVenta": "2",
     "tipoComprobante": "a",

@@ -1,8 +1,8 @@
 import { readFile } from 'fs/promises';
 import path from 'path';
 
-export async function GET(req:any) {
-  const filePath = path.join(process.cwd(), 'facturas.json');
+export async function GET() {
+  const filePath = path.join("/tmp", 'facturas.json');
 
   let facturas = [];
 

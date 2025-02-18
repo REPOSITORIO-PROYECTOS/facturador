@@ -4,7 +4,7 @@ import path from 'path';
 export async function POST(req:any) {
   try {
     const data = await req.json();
-    const filePath = path.join(process.cwd(), 'facturas.json');
+    const filePath = path.join("/tmp", 'facturas.json');
 
     let facturas = [];
 
