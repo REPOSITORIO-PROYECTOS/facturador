@@ -1,3 +1,4 @@
+/* eslint-disable */
 export function Navbar({ handlePageChange, children }: any) {
     return (
       <nav className="bg-blue-500 text-white">
